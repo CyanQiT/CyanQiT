@@ -12,7 +12,7 @@
 ### 📂 Featured Projects
 
 - 🔹 [**CyanAddons**](https://github.com/cyanqit/cyanaddons)
-- 🔹 [**ValleyAddons**](https://github.com/cyanqit/valleyaddons)
+- 🔹 [**ValleyAddons**](https://github.com/cyanqit/valley-addons)
 - 🔹 [**F7HateClub**](https://github.com/cyanqit/f7hateclub)
 
 ---
