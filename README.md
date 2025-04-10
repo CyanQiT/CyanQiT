@@ -11,7 +11,7 @@
 
 ### 📂 Featured Projects
 
-- 🔹 [**Project One**](https://github.com/your-username/project-one)
+- 🔹 [**CyanAddons**](https://github.com/cyanqit/cyanaddons)
 - 🔹 [**Project Two**](https://github.com/your-username/project-two)
 - 🔹 [**Project Three**](https://github.com/your-username/project-three)
 
