@@ -12,8 +12,8 @@
 ### 📂 Featured Projects
 
 - 🔹 [**CyanAddons**](https://github.com/cyanqit/cyanaddons)
-- 🔹 [**Project Two**](https://github.com/your-username/project-two)
-- 🔹 [**Project Three**](https://github.com/your-username/project-three)
+- 🔹 [**ValleyAddons**](https://github.com/cyanqit/valleyaddons)
+- 🔹 [**F7HateClub**](https://github.com/cyanqit/f7hateclub)
 
 ---
 
